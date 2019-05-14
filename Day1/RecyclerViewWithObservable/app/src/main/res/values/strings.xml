@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewWithObservable</string>
+    <string name="name">Name</string>
+    <string name="details">Details</string>
+</resources>
